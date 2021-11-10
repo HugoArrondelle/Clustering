@@ -1,1 +1,4 @@
 # Clustering
+
+
+python script.py
